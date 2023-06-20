@@ -1,18 +1,11 @@
-<!---
-UmutYG/UmutYG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 <h1 align="center"><b>Hi ,Umut Yılmaz Gündüz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Full-Stack+Developer;React+Lover..<3;Computer+Science+Student;Active+Learner/Researcher,;Love+to+learn+new+stuffs.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Full-Stack+Developer;React+Lover..	 
+  <3;Computer+Science+Student;Active+Learner/Researcher,;Love+to+learn+new+stuffs.">
 </p>
 
-
 <br>
-
 
 <picture>
   <source media="(max-width: 767px)" srcset="">
@@ -22,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 ## **About me**
 
 <br>
-
 
 - My name is Umut Yılmaz Gündüz, and I am a self-taught front-end developer with a passion for creating engaging and user-friendly web applications. 
 
@@ -71,9 +63,11 @@ You can click the Preview link to take a look at your changes.
    ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 <br>
 
+
 - **Databases**: <br> <br>
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br>
+
 
 - **Softwares and Tools**:
 
@@ -83,55 +77,37 @@ You can click the Preview link to take a look at your changes.
     ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 <br>
-
 </p>
 
-<br>
-<br>
-
------
-
+<p>----------------------------------------------------------</p>
 <br>
 
 
------
-
-<br>
-<br>
-
+Contact: <br>
 <div align='left'>
 
 <ul>
 
-<li>
-<a href="https://linkedin.com/in/umut-yilmaz-gunduz/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  UmutYG-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
-</a>
-</li>
-
-<br>
-
+  <li>
+    <a href="https://linkedin.com/in/umut-yilmaz-gunduz/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin:  UmutYG-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
+    </a>
+  </li>
 <br>
 
 <li>
-<a href="mailto:umutyilmazgunduz@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  UmutYG-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
-</a>
+    <a href="mailto:umutyilmazgunduz@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/gmail:  UmutYG-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
+    </a>
 </li>
 	
 </ul>
 </div>
 
 <br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
 
-<div align='center'>
-
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
 <br>
 <br>
