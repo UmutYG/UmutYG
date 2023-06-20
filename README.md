@@ -7,11 +7,10 @@
 
 <picture>
   <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="" src="./react.svg" width=300px>
+  <img align="right" alt="" src="./react.svg" width=250px>
 </picture>
 	
 ## **About me**
-
 
 - My name is Umut Yılmaz Gündüz, and I am a self-taught front-end developer with a passion for creating engaging and user-friendly web applications. 
 
