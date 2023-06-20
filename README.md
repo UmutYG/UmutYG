@@ -1,10 +1,9 @@
-<h1 align="center"><b>Hi ,Umut Yılmaz Gündüz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi ,Umut Yılmaz Gündüz </b>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Full-Stack+Developer;React+Lover<3;Computer+Science+Student;Active+Learner/Researcher,;Love+to+learn+new+stuffs.">
 </p>
 
-<br>
 
 <picture>
   <source media="(max-width: 767px)" srcset="">
@@ -13,7 +12,6 @@
 	
 ## **About me**
 
-<br>
 
 - My name is Umut Yılmaz Gündüz, and I am a self-taught front-end developer with a passion for creating engaging and user-friendly web applications. 
 
@@ -23,14 +21,9 @@
 
 - I encourage you to take a look at my work on <a href="https://www.frontendmentor.io/profile/UmutYG">Frontend Mentor</a>, where I have completed several design challenges to showcase my abilities.
 
-- I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:umutyilmazgunduz@gmail.com">umutyilmazgunduz@gmail.com</a>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">
 
@@ -39,9 +32,6 @@
     ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
     ![JavaScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)&nbsp;
-  
-     
-
 
 <br>   
     
@@ -58,8 +48,9 @@
 
 - **Back-End Development**:
 
-   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp; <br> <br>
+   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
    ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+  
 <br>
 
 
@@ -75,38 +66,19 @@
     ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
     ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
-<br>
 </p>
 
-<p>----------------------------------------------------------</p>
 <br>
 
-
-Contact: <br>
-<div align='left'>
-
-<ul>
-
-  <li>
+<div align='right'>
     <a href="https://linkedin.com/in/umut-yilmaz-gunduz/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin:  UmutYG-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
     </a>
-  </li>
-<br>
-
-<li>
     <a href="mailto:umutyilmazgunduz@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/gmail:  UmutYG-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
     </a>
-</li>
 	
-</ul>
 </div>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-
-<br>
-<br>
